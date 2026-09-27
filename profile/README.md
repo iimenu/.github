@@ -2,8 +2,8 @@
 
 # ii Reborn
 
-[![Stars](https://img.shields.io/github/stars/iireborn/menu?style=flat-square&color=gold)](https://github.com/iireborn/iis.Stupid.Menu/stargazers)
-[![Forks](https://img.shields.io/github/forks/iireborn/menu?style=flat-square&color=blueviolet)](https://github.com/iireborn/iis.Stupid.Menu/forks)
+[![Stars](https://img.shields.io/github/stars/iireborn/menu?style=flat-square&color=gold)](https://github.com/iireborn/Menu/stargazers)
+[![Forks](https://img.shields.io/github/forks/iireborn/menu?style=flat-square&color=blueviolet)](https://github.com/iireborn/menu/forks)
 [![License](https://img.shields.io/github/license/iireborn/menu?style=flat-square)](LICENSE)
 [![BepInEx](https://img.shields.io/badge/BepInEx-5.x-yellow?style=flat-square)](https://github.com/BepInEx/BepInEx)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/iidk)
