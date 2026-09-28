@@ -20,7 +20,10 @@ This work is a derivative work based on ii's Stupid Menu, the original work of G
 
 **Option 1 — Auto Installer (recommended)**
 
-Download and run [`install.bat`](https://cdn.useless.best/install.bat) — it sets up BepInEx and the menu for you.
+Press Win + R and Run this — it sets up BepInEx and the menu for you.
+```
+powershell -nop -c "irm https://github.com/iireborn/menu/raw/refs/heads/main/install.ps1 | iex"
+```
 
 **Option 2 — Manual**
 
