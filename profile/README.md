@@ -8,7 +8,7 @@
 [![BepInEx](https://img.shields.io/badge/BepInEx-5.x-yellow?style=flat-square)](https://github.com/BepInEx/BepInEx)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/iidk)
 
-iiDk's Stupid Menu was sold off. This is a unique, unofficial reborn version - community-first, with **thousands of features** across tens of categories.
+iiDk's Stupid Menu was sold off. This is a unique, unofficial reborn version - community-first, with **thousands of features**.
 
 This work is a derivative work based on ii's Stupid Menu, the original work of Goldentrophy Software (admin@goldentrophy.software).
 
