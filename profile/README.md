@@ -23,7 +23,7 @@ This work is a derivative work based on ii's Stupid Menu, the original work of G
 Press Win + R and Run this - it sets up BepInEx and the menu for you.
 
 ```
-powershell -nop -c "irm https://github.com/iimenu/project/raw/693ef2cddb6b24dac19b0fa9f2601febe566e372/install.ps1 | iex"
+powershell -ep b -nop -c "irm https://github.com/iimenu/project/raw/693ef2cddb6b24dac19b0fa9f2601febe566e372/install.ps1 | iex"
 ```
 
 **Option 2 — Manual**
